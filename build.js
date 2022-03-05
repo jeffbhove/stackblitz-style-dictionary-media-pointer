@@ -94,6 +94,7 @@ pointerTypeArr.forEach((pointerType) => {
     },
   });
 });
+// end loop of pointer types
 
 StyleDictionary.extend({
   source: [`tokens/size.json`, `tokens/size-core.json`],
