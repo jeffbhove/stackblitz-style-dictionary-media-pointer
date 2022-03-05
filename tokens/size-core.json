@@ -1,0 +1,16 @@
+{
+  "controlMinTarget": {
+    "coarse": {
+      "value": "{base.size.48}",
+      "attributes": {
+        "media": "pointer"
+      }
+    },
+    "fine": {
+      "value": "{base.size.20}",
+      "attributes": {
+        "media": "pointer"
+      }
+    }
+  }
+}
